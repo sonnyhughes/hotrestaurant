@@ -1,22 +1,22 @@
 var tableArray = [
     {
-        customerName: "Ernest Hemingway",
+        customerName: "George Washington",
         customerPhone: "(123) 456-7890"
     },
     {
-        customerName: "Stephen King",
+        customerName: "James Madison",
         customerPhone: "(098) 765-4321"
     },
     {
-        customerName: "Mark Twain",
+        customerName: "Thomas Jefferson",
         customerPhone: "(345) 678-9012"
     },
     {
-        customerName: "William Faulkner",
+        customerName: "Benjamin Franklin",
         customerPhone: "(789) 012-3456"
     },
     {
-        customerName: "Charles Dickens",
+        customerName: "John Adams",
         customerPhone: "(567) 890-1234"
     }
 ];
